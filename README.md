@@ -3,7 +3,7 @@
 <h2> Fitness Networking App </h2>
 </div>
 
-The Fitness Networking App is a comprehensive platform designed to cater to the needs of users, fitness partners, and administrators in the fitness and wellness domain. The application offers a range of features to enhance the fitness journey of users, facilitate business operations for fitness partners, and provide robust administrative tools for efficient system management.
+The Fitness Networking App is a comprehensive platform designed to cater to the needs of users and fitness partners. The application offers a range of features to enhance the fitness journey of users, facilitate business operations for fitness partners, and provide robust administrative tools for efficient system management.
 
 ## Key Features
 
@@ -21,14 +21,6 @@ The Fitness Networking App is a comprehensive platform designed to cater to the 
 - **Revenue Generation**: Earn credit points when members check in at your gym and redeem them for monetary value.
 - **Analytics Dashboard**: Access detailed analytics on gym usage, member demographics, and revenue.
 - **Integration with Payment Systems**: Seamlessly integrate with various payment gateways for membership fees and other transactions.
-
-### For Administrators
-
-- **User Management**: Manage user accounts, roles, and permissions for members, gym owners, and other administrators.
-- **System Monitoring**: Monitor system performance, usage statistics, and troubleshoot issues.
-- **Content Management**: Manage and update content on the platform, including gym listings, class descriptions, and promotional materials.
-- **Support and Maintenance**: Provide support to users and gym owners, and maintain system health through regular updates and patches.
-- **Reporting Tools**: Generate comprehensive reports on system usage, financial performance, and user activity.
 
 ## Getting Started
 
