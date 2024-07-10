@@ -1,0 +1,11 @@
+final apiConfig = ApiConfig();
+final httpService = HttpService(apiConfig.baseUrl);
+final apiService = ApiService(httpService);
+
+// Example: Fetch items from the API
+try {
+  final items = await apiService.fetchItems();
+  // Handle the retrieved items
+} catch (e) {
+  // Handle the error
+}
