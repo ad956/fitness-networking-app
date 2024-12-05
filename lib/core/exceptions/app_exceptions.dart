@@ -21,4 +21,4 @@ class UnauthorizedException extends AppException {
   UnauthorizedException(String message) : super(message);
 }
 
-// Define more custom exception classes as needed
+
