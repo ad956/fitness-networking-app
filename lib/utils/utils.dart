@@ -62,8 +62,7 @@ class ValidationUtils {
   }
 
   static bool isValidMobile(String input) {
-    final mobileRegex =
-        RegExp(r'^\d{10}$'); // Assuming a 10-digit mobile number
+    final mobileRegex = RegExp(r'^\d{10}$');
     return mobileRegex.hasMatch(input);
   }
 
